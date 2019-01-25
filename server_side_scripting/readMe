@@ -1,4 +1,4 @@
-CSCI2170 Server-side scripting
+Server-side scripting
 In this folder, they are 5 versions of the website. Each is different according to the course requirements.
 In P1, it develops four templatesa by using the Bootstrap responsive web design framework. It uses images and Lipsum texts as the place holder.
 In P2, it adds functionality to the 4 templates. It using files to save, retrieve and update content to display on the pages 
