@@ -11,3 +11,5 @@ In P4, it adds the main landing page and a login/sign up page for a new account 
 In P5, it improves login functionality by using Hash passwords (when creating a password when signing up for an account and when logging into the application) 
         In login/sign up page, it creates rules for the creation of a password and uses regex to check it.
        it simulates “live” updates on a user's main page by using Ajax so that new posts automatically show up in their post without needing to refresh the page. 
+
+For P4, there is an example website: http://chat8.gearhostpreview.com/
