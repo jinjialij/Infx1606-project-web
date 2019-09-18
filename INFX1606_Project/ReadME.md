@@ -1,4 +1,10 @@
-Image_citation
+# Project Name: Filmplex
+
+This is a webpage for a cinema, where they post latest films, films that are available for rent, and latest news about films. The webpage is very simple one and purely built by CSS and HTML. 
+
+In the Contact Us page, it uses HTML5 features to check email format. When user submit messages, a window would pop up to confirm the message has been sent successfully.
+
+## Image_citation
 TheRedShoes
 https://upload.wikimedia.org/wikipedia/en/d/da/The_Red_Shoes_poster_2010_film.jpg
 
