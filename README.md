@@ -1,2 +1,2 @@
-# Project_Assignments-Learning_Web_development
-Here stores all projects and assignments of web courses
+# Web development projects
+Here stores all projects that practise web development techniques
